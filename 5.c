@@ -17,6 +17,6 @@ int main(){
         printf("\nDigite um valor: ");
         scanf("f",&array[j]);
     }
-    printf("Total de números negativos: %d",negativos(n, &array));
+    printf("Total de números negativos: %d",n(n, &array));
     return 0;
 }
