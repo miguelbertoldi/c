@@ -13,7 +13,7 @@ int main()
    *ponteiroF = 0.2;
    *ponteiroC = 'b';
 
-    printf("Inteiro: %i ", *ponteiroint);
-    printf("\n Real: %f ",  *ponteirofloat);
-    printf("\nChar: %c ", *ponteirochar);
+    printf("Inteiro: %i ", *ponteiroI
+    printf("\n Real: %f ",  *ponteiroF;
+    printf("\nChar: %c ", *ponteiroC;
 }
