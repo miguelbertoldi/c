@@ -13,7 +13,7 @@ int main() {
 
   t=*a;
   *a=*b;
-  *b=temp;
+  *b=t;
 
   printf("\n A: %d\nB: %d",*a,*b);
 
